@@ -14,9 +14,6 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 👨‍💻 Linguagens: 
 [![My Skills](https://skillicons.dev/icons?i=python,c,php)](https://skillicons.dev)
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
-
 ## 🗄️ Bancos de Dados: 
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ## ⚙️ Ferramentas:
